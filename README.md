@@ -10,7 +10,7 @@ To explore and analyze Netflix’s dataset using SQL queries, and extract meanin
 
 ---
 
-## 🧠 Queries and Algorithms Used
+## 🧠 Queries Used
 
 ### 1. **Data Selection & Filtering**
 - Basic `SELECT` statements to inspect and fetch specific columns
